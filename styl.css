@@ -1,0 +1,22 @@
+.baner{
+	height:300px;
+}
+img{
+	height:100%;
+	width:100%;
+}
+.lewy{
+	height:500px;
+	width:50%;
+	float:left;
+}
+.prawy{
+	height:500px;
+	width:50%;
+	float:left;
+}
+.stopka{
+	height:300px;
+	width:100%;
+	clear:both;
+}
